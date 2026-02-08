@@ -49,7 +49,7 @@
       <td>Java (OOP), Swing, SQL</td>
     </tr>
     <tr>
-      <td><b>Payroll System</b></td>
+      <td><b>Contractor accounting system</b></td>
       <td>Enterprise solution for managing contractor employees, daily wages, overtime, and loans.</td>
       <td>Java, Oracle DB</td>
     </tr>
