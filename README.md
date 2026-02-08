@@ -63,7 +63,7 @@
 
 <h3>🎥 Content Creation</h3>
 <p>
-  Founder of <b>Codeffee Start</b>, a growing community where I teach programming fundamentals.
+  Founder of <b>Codeffee</b>, a growing community where I teach programming fundamentals.
 </p>
 <ul>
   <li>Creating instructional video tutorials on <b>Java</b> and <b>Backend programming</b>.</li>
