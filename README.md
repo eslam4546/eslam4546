@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  I am a proactive Software Engineer with a solid foundation in <b>Java Development</b> and <b>Backend Systems</b>. 
+  I am a proactive Software Engineer foundation in <b>Java Development</b> and <b>Backend Systems</b>. 
   <br/>
   Currently bridging the gap between technical complexity and user-friendly applications while sharing knowledge on my YouTube channel, <b>Codeffee Start</b>.
 </p>
