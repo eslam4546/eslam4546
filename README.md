@@ -8,8 +8,7 @@
   Information Systems student at The Higher Institute for Advanced Studies (Expected 2027).
   <br/>
   <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197579.png" width="13"/> Based in <b>Egypt</b>
-</p>
+<img src="https://flagcdn.com/w40/eg.png" width="20"/> Based in <b>Egypt</b></p>
 
 <p align="center">
   I am an ambitious Software Engineer specializing in <b>Cross-Platform Mobile Development</b> using <b>Flutter & Dart</b>, built on a solid foundation of <b>Java</b> and Object-Oriented Programming. 
