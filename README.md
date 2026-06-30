@@ -61,11 +61,6 @@
       <td>Enterprise solution for managing 100+ employees, automating monthly financial calculations and database interactions.</td>
       <td>Java, Oracle DB</td>
     </tr>
-    <tr>
-      <td><b>ATM Machine Simulator</b></td>
-      <td>An interactive banking system simulating secure financial transactions like balance inquiries and cash withdrawals.</td>
-      <td>Java (OOP)</td>
-    </tr>
   </tbody>
 </table>
 
