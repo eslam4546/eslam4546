@@ -57,6 +57,7 @@
       <td>Flutter, Dart</td>
     </tr>
     <tr>
+            <td><b><a href="https://github.com/eslam4546/workers-management-system">Employee Management System</a></b></td>
       <td><b>Employee Management System</b></td>
       <td>Enterprise solution for managing 100+ employees, automating monthly financial calculations and database interactions.</td>
       <td>Java, Oracle DB</td>
