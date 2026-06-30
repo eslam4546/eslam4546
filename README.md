@@ -56,19 +56,16 @@
       <td>A cross-platform mobile application to calculate Body Mass Index with dynamic state management for instant health evaluations.</td>
       <td>Flutter, Dart</td>
     </tr>
+         <tr>
+      <td><b><a href="https://github.com/eslam4546/flutter-sports-ecommerce">flutter-sports-ecommerce</a></b></td>
+      <td>A highly responsive and scalable e-commerce mobile application specializing in sports equipment and apparel. Developed with a strict Feature-First clean layout to isolate state management, using a customized PageView system combined with structured navigation configurations to deliver smooth component transition dynamics and robust usability across all screen ratios.</td>
+      <td>Flutter, Dart</td>
+    </tr>
     <tr>
       <td><b><a href="https://github.com/eslam4546/workers-management-system">Employee Management System</a></b></td>
       <td>Enterprise solution for managing 100+ employees, automating monthly financial calculations and database interactions.</td>
       <td>Java, Oracle DB</td>
     </tr>
-     <tr>
-      <td><b><a href="https://github.com/eslam4546/flutter-sports-ecommerce">flutter-sports-ecommerce</a></b></td>
-      <td>A highly responsive and scalable e-commerce mobile application specializing in sports equipment and apparel. Developed with a strict Feature-First clean layout to isolate state management, using a customized PageView system combined with structured navigation configurations to deliver smooth component transition dynamics and robust usability across all screen ratios.</td>
-      <td>Flutter, Dart</td>
-    </tr>
-
-   
-    
   </tbody>
 </table>
 
