@@ -47,8 +47,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/eslam4546/homesystem">Smart Home System Interface</a></b></td>
-      <td>A responsive smart home control mobile application focusing on modern UI design, utilizing PageView and custom interactive widgets.</td>
+      <td><b><a href="https://github.com/eslam4546/TailorHub">Taylor Shop App</a></b></td>
+      <td>A cross-platform mobile solution designed for tailoring businesses to streamline order tracking, custom measurement management, and customer workflow integration.</td>
       <td>Flutter, Dart</td>
     </tr>
     <tr>
@@ -62,16 +62,16 @@
       <td>Flutter, Dart</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/eslam4546/workers-management-system">Employee Management System</a></b></td>
-      <td>Enterprise solution for managing 100+ employees, automating monthly financial calculations and database interactions.</td>
-      <td>Java, Oracle DB</td>
+      <td><b><a href="https://github.com/eslam4546/habit-tracker">habit-tracker</a></b></td>
+      <td>Cross-platform application built using Flutter, BLoC state management, and Firebase cloud architectures for tracking daily routines and analytics.</td>
+      <td>dart,Flutter,Firebase,State Management,SQFLITE</td>
     </tr>
   </tbody>
 </table>
 
 <h3>🎥 Content Creation</h3>
 <p>
-  Founder of <b>Codeffe</b>, a growing community where I teach programming fundamentals and tech skills.
+  Founder of <b>elkomycode</b>, a growing community where I teach programming fundamentals and tech skills.
 </p>
 <ul>
   <li>Creating instructional video tutorials on <b>Programming, Technology, and Ubuntu Linux</b>.</li>
