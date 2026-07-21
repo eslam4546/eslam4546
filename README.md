@@ -13,7 +13,7 @@
 <p align="center">
   I am an ambitious Software Engineer specializing in <b>Cross-Platform Mobile Development</b> using <b>Flutter & Dart</b>, built on a solid foundation of <b>Java</b> and Object-Oriented Programming. 
   <br/>
-  Currently bridging the gap between technical complexity and user-friendly applications while sharing knowledge on my YouTube channel, <b>Codeffe</b>.
+  Currently bridging the gap between technical complexity and user-friendly applications while sharing knowledge on my YouTube channel, <b>elkomycode</b>.
 </p>
 
 <h3 align="center">🛠️ Technical Skills</h3>
