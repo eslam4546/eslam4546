@@ -86,10 +86,10 @@
   <a href="https://www.youtube.com/@Codeffe" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" />
   </a> 
-  <a href="[https://www.linkedin.com/in/eslam-hany-2a14ba286](https://www.linkedin.com/in/eslam-elkomy-2a14ba286/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eslam-elkomy-2a14ba286/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://islamhany.netlify.app/" target="_blank">
+  <a href="https://eslam4546.github.io/eslamelkomy.github.io/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=cyan" />
   </a>
 </p>
